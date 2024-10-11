@@ -1,0 +1,4 @@
+Birds[[:space:]]in[[:space:]]the[[:space:]]Bass[[:space:]]Valley,[[:space:]]Victoria,[[:space:]]Australia.wav filter=lfs diff=lfs merge=lfs -text
+Crickets[[:space:]]and[[:space:]]bats[[:space:]]in[[:space:]]Reservoir,[[:space:]]Victoria,[[:space:]]Australia.wav filter=lfs diff=lfs merge=lfs -text
+Frogs[[:space:]]and[[:space:]]bats[[:space:]]at[[:space:]]Smiths[[:space:]]Lake,[[:space:]]NSW,[[:space:]]Australia.wav filter=lfs diff=lfs merge=lfs -text
+Kookaburras[[:space:]]and[[:space:]]insects[[:space:]]in[[:space:]]Yallingup,[[:space:]]Western[[:space:]]Australia.wav filter=lfs diff=lfs merge=lfs -text
